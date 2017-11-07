@@ -5,8 +5,8 @@ Cinto de recognição de espaço para pessoas que possuem deficiência visual.
 
 Colaboração:
 
-Escola de Educação Bás. Luiza Santin
-Centro Associativo de Atividades Psicofísicas Patrick
+- Escola de Educação Bás. Luiza Santin
+- Centro Associativo de Atividades Psicofísicas Patrick
 
 Materiais usados:
 
