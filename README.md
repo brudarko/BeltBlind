@@ -17,5 +17,6 @@ Materiais usados:
 - Protoboard;
 - Bateria (9v);
 
-"Every living creature dies alone on Earth" - Roberta Sparrow
+# This project was created in:
 
+![alt text](https://github.com/frankthedead/Pedometer/blob/master/Desbravalley.png)
